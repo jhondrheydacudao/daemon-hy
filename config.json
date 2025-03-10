@@ -6,12 +6,12 @@
   "port": 3002,
   "version": "0.1.0-beta1",
   "mysql": {
-    "host": "0.0.0.0",  // Allow MySQL to accept external connections
+    "host": "0.0.0.0", 
     "user": "root",
     "password": ""
   },
   "ftp": {
-    "ip": "0.0.0.0",  // Allow FTP to accept external connections
+    "ip": "0.0.0.0", 
     "port": 3003
   }
 }
